@@ -1,7 +1,7 @@
 # FaceRecognition-
-Face recognition project - two parts. 
+Face recognition project - two parts - Developed in Python 
 
-Python Based - 
+
 Face Detect:
 First part that needs to be run is face detect which will detect all the faces within the inputed image. The individual faces will be highlighted by a rectangle on the whole image. Then the individual photos will be shown for user to input the name. Faces and photos will be saved to indivudal directories
 
